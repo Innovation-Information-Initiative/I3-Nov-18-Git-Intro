@@ -1,7 +1,6 @@
 I made an edit to this file!  Or did I?  Welcome to the future.  
 
-LT :
-COUNT LEO NIKOLAYEVICH TOLSTOY was born 
+LT : COUNT LEO NIKOLAYEVICH TOLSTOY was born 
 August 28, 1828, at the family estate of Yasna- 
 ya Polyana, in the province of Tula. His moth- 
 er died when he was three and his father six 
