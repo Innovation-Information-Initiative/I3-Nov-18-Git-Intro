@@ -1,5 +1,5 @@
 agnes, some windows and a brick wall :)
-
+Gaetan, adding another brick in the wall
 I am editing the file now.
 MM_edit
 
